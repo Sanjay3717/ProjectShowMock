@@ -1,0 +1,21 @@
+.top-container {
+  background-color: #cbd5e1;
+  height: 150px;
+}
+.website-logo {
+  height: 100px;
+}
+.drop-down-style {
+  width: 500px;
+  height: 40px;
+  border-color: #e6e9ec;
+  margin: 30px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.unordered-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
